@@ -68,7 +68,7 @@ body {
 /* Declare heights because of positioning of img element */
 .carousel .item {
   height: 700px;
-  margin-top:80px;
+  margin-top:75px;
   background-size:cover;
 }
 .carousel-inner > .item > img {
@@ -212,7 +212,7 @@ hr {
 .thumbnail {
   position: relative;
   width: 450px;
-  height: 350px;
+  height: 250px;
   border:hidden;
   overflow: hidden;
   margin-bottom:5px;
