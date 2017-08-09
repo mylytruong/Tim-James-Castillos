@@ -207,15 +207,15 @@ hr {
 
 .thumbnail {
   position: relative;
-  width: 500px;
-  height: 300px;
+  width: 450px;
+  height: 250px;
   border:hidden;
   border:1px;
   overflow: hidden;
   margin-left:25px;
   margin-bottom:5px;
   margin-top:-8px;
-  float: left;
+  float: right;
   text-align:center;
 }
 
