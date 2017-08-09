@@ -68,7 +68,7 @@ body {
 /* Declare heights because of positioning of img element */
 .carousel .item {
   height: 700px;
-  margin-top:50px;
+  margin-top:80px;
   background-size:cover;
 }
 .carousel-inner > .item > img {
