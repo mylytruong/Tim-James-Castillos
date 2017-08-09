@@ -215,11 +215,9 @@ hr {
   height: 250px;
   border:hidden;
   overflow: hidden;
-  margin-left:-8px;
   margin-bottom:5px;
   margin-top:-8px;
   float: right;
-  text-align:center;
 }
 
 .thumbnail img {
