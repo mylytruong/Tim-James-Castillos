@@ -204,6 +204,9 @@ hr {
 	height:508px;
 	border:hidden;
 }
+.gallery {
+	float:left;
+}	
 
 .thumbnail {
   position: relative;
@@ -221,7 +224,7 @@ hr {
 .thumbnail img {
 	position: absolute;
 	height: auto;
-	width: 550px;
+	width: 650px;
 	clip: rect(0px,432px,280px,0px);
 	margin-left: -5px;
 	margin-top: -8px;
@@ -324,7 +327,4 @@ span {
 .rea {
 	font-size:20px;
 	color:#999;
-}
-.gallery {
-	float:left;
 }
